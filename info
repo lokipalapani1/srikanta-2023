@@ -1,4 +1,8 @@
 GIT is a opensource tool
 Git is popularly used tool
 Git is SCM tool
+<<<<<<< HEAD
 Git is provided by github
+=======
+Reset is git command to delete the local commits.
+>>>>>>> bae65121ac7af740a8099dc6c2f7d609b5a1d725
