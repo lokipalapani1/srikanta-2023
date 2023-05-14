@@ -14,3 +14,4 @@ Popular git providers are github, gitlab and bitbucket
 Devops keytools are jenkins, dockers, kuebernettes, and linu fundamentals
 Devops is combination of deveopement and operations.
 deveops practices includes continous integration, contionous delivery and continous deployment.
+git pull is used to download the commits from remote to local
